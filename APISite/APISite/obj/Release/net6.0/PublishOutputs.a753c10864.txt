@@ -1,0 +1,12 @@
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\APISite.exe
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\APISite.dll
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\APISite.deps.json
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\APISite.runtimeconfig.json
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\APISite.pdb
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\2023\March\27\SVTRobo\APISite\APISite\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
